@@ -16,9 +16,9 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_label" msgid="5439897702697364618">"Imbakan ng Protektadong Nilalaman ng DRM"</string>
-    <string name="permlab_accessDrm" msgid="1806974558208719656">"I-access ang nilalaman ng DRM."</string>
-    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Binibigyang-daan ang app na i-access ang nilalamang pinoprotektahan ng DRM."</string>
-    <string name="permlab_installDrm" msgid="4716871004736576753">"I-install ang nilalaman ng DRM."</string>
-    <string name="permdesc_installDrm" msgid="6760690341551044340">"Pinapayagan ang app na i-install ang nilalamang pinoprotektahan ng DRM."</string>
+    <string name="app_label" msgid="5439897702697364618">"Hifadhi ya Maudhui Yanayolindwa na DRM"</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"Fikia maudhui ya DRM."</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Inaruhusu programu kufikia maudhui yanayolindwa na DRM."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"Weka maudhui ya DRM."</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Inaruhusu programu kusakinisha maudhui yanayolindwa na DRM."</string>
 </resources>
